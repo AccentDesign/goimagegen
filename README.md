@@ -1,4 +1,4 @@
-# goimagegen
+# goimagen
 
 ### generating
 

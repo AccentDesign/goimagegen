@@ -1,4 +1,4 @@
-module goimagegen
+module goimagen
 
 go 1.23.3
 
